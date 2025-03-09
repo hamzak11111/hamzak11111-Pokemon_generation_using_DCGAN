@@ -1,4 +1,5 @@
 # Training DCGAN to generate Pokemons and deploying locally using Streamlit.
+Github repo link: https://github.com/hamzak11111/hamzak11111-Pokemon_generation_using_DCGAN
 
 ## Dataset
 Pokemon dataset used: https://www.kaggle.com/datasets/kvpratama/pokemon-images-dataset

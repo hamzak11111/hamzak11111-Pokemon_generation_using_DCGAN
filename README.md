@@ -10,8 +10,7 @@ Pokemon dataset used: https://www.kaggle.com/datasets/kvpratama/pokemon-images-d
     - code for training GAN model on Pokemon dataset for different epochs. (50, 100, 250, 500)
     - Plots of generated images at different epochs also present here.
 
-- logs:
-    - logs for different training epochs are saved here.
+- logs: logs for different training epochs are saved here.
 
 - output: contains generated images after different training epochs.
 
